@@ -16,6 +16,10 @@ Wireshark
 
 # Files and URLs
 
+* Extracts URLs from HTTP GET Requests
+* Checks for reverse shells
+
+
 # Command Line (Linux)
 
 ./sharlock.py [PCAPFILE]
