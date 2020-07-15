@@ -20,4 +20,4 @@ Wireshark
 
 ./sharlock.py [PCAPFILE]
 
-e.g. ./sharlock.py network.pcap
+Example: ./sharlock.py network.pcap
