@@ -17,7 +17,7 @@ Wireshark
 # Files and URLs
 
 * Extracts URLs from HTTP GET Requests
-* Checks for reverse shells
+* Checks for reverse shell(s)
 
 
 # Command Line (Linux)
