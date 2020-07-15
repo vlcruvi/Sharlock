@@ -16,7 +16,7 @@ Wireshark
 
 # Files and URLs
 
-# Running
+# Command Line (Linux)
 
 ./sharlock.py [PCAPFILE]
 
