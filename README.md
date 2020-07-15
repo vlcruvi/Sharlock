@@ -12,7 +12,7 @@ Wireshark
   * Alerts against FIN/NULL/XMAS flag scan
 * Too many login attempts (poss. Brute Force)
   * Checks if login attempts exceeds more than five attempts
-   * (attempts can be changed to a higher or lower number according to user’s preference)
+     (attempts can be changed to a higher or lower number in script in accordance to user’s preference)
 
 # Files and URLs
 
