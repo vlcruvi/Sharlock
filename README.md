@@ -18,4 +18,6 @@ Wireshark
 
 # Running
 
-./sharlock.py [-r PCAPFILE]
+./sharlock.py [PCAPFILE]
+
+e.g. ./sharlock.py network.pcap
