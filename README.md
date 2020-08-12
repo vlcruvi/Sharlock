@@ -1,4 +1,4 @@
-# Sharlock.py
+# Sharlock
 
 This is a helpful python script users can use to filter brute-force attempts, files and URLs, and/or FIN/NULL/XMAS scans from a .pcap file in one execution. 
 
